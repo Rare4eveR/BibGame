@@ -15,6 +15,6 @@ public class TitleButtons : MonoBehaviour
     }
     public void ClickExit()
     {
-        Application.Quit();
+        GameManager.Instance.Exit();
     }
 }

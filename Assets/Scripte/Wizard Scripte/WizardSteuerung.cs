@@ -33,6 +33,12 @@ public class Wizard : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (false)
+        {
+            return;
+        }
+
         //
         // Movement 
         //
